@@ -12,7 +12,7 @@ Olá! Eu sou o Samuel,
 </a></div>
 
 - 🌱 Atualmente estudando Javascript, CSS e PHP
-- 👯 Desenvolvendo sistemas em python e javascript para otimização de processos administrativos na Universidade Federal do Tocantins
+- 👯 Desenvolvendo sistemas em python e javascript para otimização de processos administrativos
 
 ##
 
