@@ -11,8 +11,7 @@ Olá! Eu sou o Samuel,
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelpf25&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
 </a></div>
 
-- 🌱 Atualmente estudando Javascript, CSS e PHP
-- 👯 Desenvolvendo sistemas em python e javascript para otimização de processos administrativos
+- 🌱 Atualmente estudando Laravel
 
 ##
 
